@@ -1,0 +1,5 @@
+Spoken form, VSCode command
+git stage, git.stageSelectedRanges
+git unstage, git.unstageSelectedRanges
+git revert, git.revertSelectedRanges
+git accept, merge-conflict.accept.selection
