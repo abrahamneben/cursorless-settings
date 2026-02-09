@@ -32,7 +32,7 @@ indent, indentLine
 inspect, showDebugHover
 join, joinLines
 move, moveToTarget
-glue, pasteFromClipboard
+place, pasteFromClipboard
 telephone, nextHomophone
 post, setSelectionAfter
 pour, editNewLineAfter

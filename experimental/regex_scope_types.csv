@@ -1,2 +1,3 @@
 Spoken form, Regex
 number,"(-)?[0-9\.]+"
+blob,"[^\s:;]+"
